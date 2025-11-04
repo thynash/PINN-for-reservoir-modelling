@@ -53,39 +53,32 @@ venv.bak/
 ehthumbs.db
 Thumbs.db
 
-# Data files
-*.las
-*.LAS
-data/raw/
-data/processed/
-!data/sample/
+# Data files (exclude raw data, keep samples)
+data/raw/*.las
+data/raw/*.LAS
+!data/sample/*.las
+!data/sample/*.LAS
 
-# Results
+# Results (exclude generated files, keep structure)
 results/models/*.pth
 results/logs/*.log
 results/plots/*.png
-!results/plots/sample_*
+!results/plots/.gitkeep
+!results/models/.gitkeep
+!results/logs/.gitkeep
 
 # Temporary files
 *.tmp
 *.temp
-*.log
 
 # Coverage
 .coverage
 htmlcov/
 .pytest_cache/
 
-# Documentation
+# Documentation build
 docs/_build/
-docs/api/
 
 # Local configuration
 config/local.yaml
 .env.local
-
-# Presentation files (keep organized versions)
-*PRESENTATION*.md
-*SLIDES*.md
-*QA*.md
-!docs/presentation/
