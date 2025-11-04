@@ -1,0 +1,58 @@
+{
+  "data_processing": {
+    "las_files_processed": 0,
+    "processing_time": 0.0,
+    "files_per_second": 0.0,
+    "memory_usage_mb": 0.0,
+    "errors": [
+      "Import error: attempted relative import beyond top-level package"
+    ]
+  },
+  "model_performance": {
+    "model_creation_time": 0.0,
+    "forward_pass_time": 0.0,
+    "gradient_computation_time": 0.0,
+    "throughput_samples_per_second": 0.0,
+    "errors": [
+      "PyTorch not available: attempted relative import beyond top-level package"
+    ]
+  },
+  "training_performance": {
+    "training_setup_time": 0.0,
+    "epoch_time": 0.0,
+    "optimizer_switch_time": 0.0,
+    "convergence_monitoring_overhead": 0.0,
+    "errors": [
+      "Training modules not available: attempted relative import beyond top-level package"
+    ]
+  },
+  "validation_performance": {
+    "validation_setup_time": 0.0,
+    "metrics_computation_time": 0.0,
+    "pde_residual_analysis_time": 0.0,
+    "prediction_generation_time": 0.0,
+    "errors": [
+      "Validation modules not available: attempted relative import beyond top-level package"
+    ]
+  },
+  "reproducibility": {
+    "reproducible_results": false,
+    "max_difference": 0.0,
+    "runs_tested": 0,
+    "errors": [
+      "Reproducibility test skipped: attempted relative import beyond top-level package"
+    ]
+  },
+  "resource_usage": {
+    "peak_memory_mb": 294.28125,
+    "cpu_usage_percent": 0.0,
+    "disk_usage_mb": 0.0020475387573242188,
+    "errors": []
+  },
+  "metadata": {
+    "timestamp": "2025-11-03T16:59:35.653575",
+    "python_version": "3.11.9 (tags/v3.11.9:de54cf5, Apr  2 2024, 10:12:12) [MSC v.1938 64 bit (AMD64)]",
+    "platform": "win32",
+    "total_runtime": 2.4397969245910645
+  }
+}
