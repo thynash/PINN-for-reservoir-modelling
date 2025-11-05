@@ -1,0 +1,20 @@
+2025-11-03 11:03:08,680 - __main__ - INFO - Starting PINN Tutorial System
+2025-11-03 11:03:08,681 - __main__ - INFO - Mode: demo
+2025-11-03 11:03:08,681 - __main__ - INFO - Data directory: data
+2025-11-03 11:03:08,681 - __main__ - INFO - Output directory: output
+2025-11-03 11:03:08,682 - __main__ - INFO - Running PINN tutorial demonstration...
+2025-11-03 11:03:08,682 - __main__ - INFO - Demo mode - basic system validation
+2025-11-03 11:03:08,682 - __main__ - INFO - Data directory: data
+2025-11-03 11:03:08,682 - __main__ - INFO - Output directory: output
+2025-11-03 11:03:08,683 - __main__ - INFO - System components initialized successfully!
+2025-11-03 11:03:08,683 - __main__ - INFO - PINN Tutorial System completed successfully
+2025-11-03 17:08:48,872 - __main__ - INFO - Starting PINN Tutorial System
+2025-11-03 17:08:48,873 - __main__ - INFO - Mode: demo
+2025-11-03 17:08:48,874 - __main__ - INFO - Data directory: data
+2025-11-03 17:08:48,874 - __main__ - INFO - Output directory: output
+2025-11-03 17:08:48,874 - __main__ - INFO - Running PINN tutorial demonstration...
+2025-11-03 17:08:48,875 - __main__ - INFO - Demo mode - basic system validation
+2025-11-03 17:08:48,875 - __main__ - INFO - Data directory: data
+2025-11-03 17:08:48,875 - __main__ - INFO - Output directory: output
+2025-11-03 17:08:48,875 - __main__ - INFO - System components initialized successfully!
+2025-11-03 17:08:48,875 - __main__ - INFO - PINN Tutorial System completed successfully
